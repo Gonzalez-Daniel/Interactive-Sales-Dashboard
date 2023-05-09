@@ -1,5 +1,5 @@
 # Interactive sales dashboard
- <img width="752" alt="DashbaordScreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/35a1b2c8-73ec-46dc-8838-00ca5a9e3615">
+<img width="752" alt="DashbaordScreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/097a0859-665b-4ddd-9473-0d8d5d0b7d3a">
 
 ## BUSINESS REQUEST & USER STORIES
 
@@ -28,8 +28,9 @@ After cleansing, the prepared tables were loaded into Power BI. The resulting da
 
 This data model illustrates the connection between the FACT_Budget, FACT_InternetSales table and the necessary DIM tables. These connections are critical in ensuring that the data can be analyzed effectively and accurately.
 
-<img width="1364" alt="ExcelScreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/da0c7f63-1e3d-47fb-bd46-285c0436474f">
-<img width="1288" alt="DataModelscreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/8e796d61-d159-4c29-933c-5fed55c30a88">
+<img width="1106" alt="SQLQuertyScreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/5c818dd7-465b-485f-a87e-54573fcf5191">
+<img width="1364" alt="ExcelScreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/2257697b-c093-4fe6-a757-54f6ed1c0986">
+<img width="1288" alt="DataModelscreenshot" src="https://github.com/Gonzalez-Daniel/Interactive-Sales-Dashboard/assets/132417300/fcd75e08-acc1-49a0-911f-660f9fd33bed">
 
 ## Sales Management Dashboard
 
