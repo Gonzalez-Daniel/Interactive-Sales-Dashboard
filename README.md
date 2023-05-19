@@ -5,12 +5,12 @@
 
 This data analysis project was commissioned by the sales manager, who would like to shift from static reports to interactive dashboards for decision-making. To fulfill this business request, the following user stories were defined to ensure that the project delivery met the acceptance criteria and fulfilled the intended purpose. These user stories helped guide the project to success and ensure that the final deliverables met the needs of the business stakeholders.
 
-| #  | As a (role) | I want (business demand)  | so that I (effect) | Acceptance Criteria  |
+| #  | As a (role) | I want (business demand)  | so that (effect) | Acceptance Criteria  |
 | ---------------- | ------------------------- | ------------------ | -------------------- | ------------- |
-| 1 | Sales Manager | A dashboard overview of internet sales  | can better track which customers purchase the most and which products sell best.  | A Power BI dashboard which updates data once per day  |
-| 2  | Sales Representative  | A detailed overview of ecommerce sales per customer  | Can follow up with the customers who purchase the most and identify additional sales opportunities  | A Power BI dashboard which allows me to filter data per individual customer  |
-| 3  | Sales Representative  | A detailed overview of ecommerce sales per Products  | Can follow which products are the most popular and likely to be sold  | A Power BI dashboard which allows me to filter sales data for each Product |
-| 4  | Sales Manager  | A dashboard overview of our ecommerce sales performance  | Track our sales over progress over time and compare it against our budget.  | A Power Bi dashboard with graphs and KPIs comparing against budget |
+| 1 | Sales Manager | A dashboard overview of internet sales  | I can better track which customers purchase the most and which products sell best.  | A Power BI dashboard which updates data once per day  |
+| 2  | Sales Representative  | A detailed overview of ecommerce sales per customer  | I can follow up with the customers who purchase the most and identify additional sales opportunities  | A Power BI dashboard which allows me to filter data per individual customer  |
+| 3  | Sales Representative  | A detailed overview of ecommerce sales per Products  | I can follow which products are the most popular and likely to be sold  | A Power BI dashboard which allows me to filter sales data for each Product |
+| 4  | Sales Manager  | A dashboard overview of our ecommerce sales performance  | I can track our sales over progress over time and compare it against our budget.  | A Power Bi dashboard with graphs and KPIs comparing against budget |
 
 ## Data Cleansing & Transformation (SQL)
 
